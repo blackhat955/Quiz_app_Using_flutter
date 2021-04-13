@@ -4,5 +4,6 @@ class Question {
   Question(String q, bool a) {
     question = q;
     answer = a;
+    //TODO:walk up here
   }
 }
