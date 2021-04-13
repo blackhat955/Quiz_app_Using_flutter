@@ -12,7 +12,7 @@
 
 - For Makeing it  More User Friendly I am still working on it .<br><br>
 ## Contributer's is Always welcome 
-- if anyone want to collaborate fell free to contact me or message on linkedin    :)  <br>
+- if anyone want to collaborate feel free to contact me or message on linkedin    :)  <br>
 ## Regards & Welcome <br>
 
 [Durgesh Tiwari](https://www.linkedin.com/in/durgesh98/)
